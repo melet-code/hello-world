@@ -9,10 +9,11 @@ home{
   min-height: 10vh;
   background-color: black;
 }
+
 .home-links{
   width: 40%;
   display: flex;
-  
+
 }
 
 .App-logo {
